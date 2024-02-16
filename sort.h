@@ -65,6 +65,5 @@ typedef enum bool
 false = 0,
 true
 } bool;
-#endif /* __cplusplus */
 
 #endif /* SORT_H */
