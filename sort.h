@@ -66,4 +66,4 @@ false = 0,
 true
 } bool;
 
-#endif /* SORT_H */
+#endif
