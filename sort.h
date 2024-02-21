@@ -59,7 +59,7 @@ void quick_sort_hoare(int *array, size_t size);
  *  * enum bool - Enumeration of Boolean values.
  *   * @false: Equals 0.
  *    * @true: Equals 1.
- *     */
+ */
 typedef enum bool
 {
 false = 0,
